@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Sample XSPF Playlist</title>
+    <info>http://www.francineluce.com</info>
+    <trackList>
+
+
+
+  		<!-- You need one of these blocks of code for each song in your playlist. --> 
+  		<!-- You can simply copy-paste one of these blocks to add a song. --> 
+        <track>
+        	<!-- here you insert your song's title --> 
+            <annotation>Apparently nothing - Carleen Anderson  </annotation>
+        	<!-- here you insert the location of your mp3 file --> 
+            <location>mp3/track1.mp3</location>
+        	<!-- here you insert a link for this song, or leave it blank for no link --> 
+        
+        </track>
+        <!-- this is the end of the code for one song --> 
+        <track>
+        	<!-- here you insert your song's title --> 
+            <annotation>Pokéya segue Home © Francine Luce    </annotation>
+        	<!-- here you insert the location of your mp3 file --> 
+            <location>mp3/track2.mp3</location>
+        	<!-- here you insert a link for this song, or leave it blank for no link --> 
+        
+        </track>
+          
+  <track>
+        	<!-- here you insert your song's title --> 
+            <annotation>On my way © Francine Luce </annotation>
+        	<!-- here you insert the location of your mp3 file --> 
+            <location>mp3/track3.mp3</location>
+        	<!-- here you insert a link for this song, or leave it blank for no link --> 
+        
+        </track>
+         
+		   <track>
+        	<!-- here you insert your song's title --> 
+            <annotation>A petits pas d’toi © Francine Luce </annotation>
+        	<!-- here you insert the location of your mp3 file --> 
+            <location>mp3/track4.mp3</location>
+        	<!-- here you insert a link for this song, or leave it blank for no link --> 
+        
+        </track>
+		  
+		
+    </trackList>
+</playlist>

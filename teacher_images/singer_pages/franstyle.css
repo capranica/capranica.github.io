@@ -1,0 +1,42 @@
+p {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 13px;
+
+	line-height: normal;
+
+	color: #FFFFCC;
+
+	letter-spacing: 1px;
+
+}
+
+hr {
+
+	background-color: #996600;
+
+}
+
+li {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 12px;
+
+	font-style: normal;
+
+	color: #FFFFCC;
+
+	font-weight: bold;
+
+}
+
+hover {
+
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+
+	}
+
+.pressText{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:13px;line-height:normal;color:#FFFFCC;letter-spacing:1px;}
+
