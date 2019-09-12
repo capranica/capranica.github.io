@@ -1,3 +1,11 @@
+Options +FollowSymLinks
+
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^(www\.)?old\.com$ [NC]
+RewriteRule .* http://www.francinelucesings.com%{REQUEST_URI} [R=301,L]
+
+
 <HTML>
 <HEAD>
 <meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
